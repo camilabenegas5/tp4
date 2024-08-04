@@ -28,3 +28,22 @@ Este proyecto tiene como jetivo aprender y practicar el uso de Git y GitHub para
 6. **Gestión de Estilos y Sistemas de Diseño**
    - Creación y gestión de estilos de texto, colores y efectos.
    - Facilitación de la implementación de sistemas de diseño a escala.
+   ## Miembros del Equipo
+   **Erika Rueda** 
+   ## Casos de uso de Figma en diseño y prototipado 
+   1. **Diseño de interfaces de usuario UI**
+   - Creación de interfaces para aplicaciones web y móviles.
+   - Diseño de pantallas individuales y flujos de usuario completos.
+   2. **Prototipos de Alta fidelidad**
+   - Desarrollo de prototipos interactivos que simulan el comportamiento final del producto.
+   - Pruebas de usabilidad y validación de conceptos antes del desarrollo.
+   3. **Colaboración entre Diseñadores y Desarrolladores:**
+   - Compartición de archivos con desarrolladores para una transición fluida del diseño al código.
+   - Exportación de activos y especificaciones técnicas directamente desde Figma.
+   4. **Pruebas de Usuario y Feedback**
+   - Creación de prototipos para realizar pruebas de usuario.
+   - Recopilación de feedback y realización de iteraciones rápidas.
+   5. **Documentación de Diseño**
+   - Creación de documentos de diseño detallados que describen las decisiones de diseño y las guías de estilo.
+   - Uso de Figma como una fuente de verdad para todo el equipo de diseño.
+
