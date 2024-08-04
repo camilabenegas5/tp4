@@ -46,4 +46,46 @@ Este proyecto tiene como jetivo aprender y practicar el uso de Git y GitHub para
    5. **Documentación de Diseño**
    - Creación de documentos de diseño detallados que describen las decisiones de diseño y las guías de estilo.
    - Uso de Figma como una fuente de verdad para todo el equipo de diseño.
+# Miembros del Equipo
 
+## Ezequiel Benegas
+
+*Rol:* Investigación sobre las funcionalidades principales de Figma  
+*Contribuciones:* Ezequiel Benegas ha llevado a cabo una investigación exhaustiva sobre los recursos y tutoriales disponibles para aprender Figma. Ha recopilado y organizado información valiosa de diversas fuentes, incluyendo sitios oficiales, cursos en línea, tutoriales en video, blogs, artículos, comunidades y libros. Su contribución ha sido fundamental para proporcionar una guía completa y accesible para los nuevos usuarios de Figma.
+
+
+
+# Recursos y Tutoriales para Aprender Figma
+
+## 1. *Sitio Oficial de Figma*
+   - **[Figma Learn](https://www.figma.com/learn/)**: La plataforma oficial de Figma que ofrece una serie de tutoriales y recursos para principiantes y usuarios avanzados.
+   - **[Figma Help Center](https://help.figma.com/hc/en-us)**: Documentación oficial con guías detalladas sobre todas las características de Figma.
+
+## 2. *Cursos en Línea*
+   - *[Coursera](https://www.coursera.org)*: Ofrece varios cursos sobre diseño de interfaces de usuario que incluyen módulos sobre Figma.
+   - *[Udemy](https://www.udemy.com)*: Cursos populares incluyen "Figma for Beginners: Learn Design & Prototyping" y "Master Web Design in Figma".
+   - **[LinkedIn Learning](https://www.linkedin.com/learning)**: Ofrece cursos como "Figma Essential Training".
+
+## 3. *Tutoriales en Video*
+   - *[YouTube](https://www.youtube.com)*: 
+     - **[Figma](https://www.youtube.com/c/Figma)**: Canal oficial de Figma con tutoriales y webinars.
+     - **[DesignCourse](https://www.youtube.com/user/DesignCourse)**: Canal con tutoriales sobre diseño web y Figma.
+     - **[The Futur](https://www.youtube.com/c/thefuturishere)**: Canal que ofrece tutoriales de diseño y entrevistas con profesionales del diseño.
+
+## 4. *Blogs y Artículos*
+   - **[Figma Blog](https://www.figma.com/blog/)**: El blog oficial de Figma que publica artículos sobre nuevas funciones, casos de estudio y consejos de diseño.
+   - *[Smashing Magazine](https://www.smashingmagazine.com)*: Publica artículos sobre diseño web y UX, incluyendo guías sobre cómo usar Figma.
+   - *[Medium](https://medium.com)*: Busca publicaciones sobre Figma para encontrar artículos escritos por la comunidad de diseño.
+
+## 5. *Comunidades y Foros*
+   - **[Figma Community](https://www.figma.com/community)**: Un lugar para explorar archivos y plugins compartidos por otros usuarios de Figma.
+   - *[Designer Hangout](https://designerhangout.co)*: Comunidad de Slack para diseñadores UX donde se puede discutir sobre Figma y otros temas de diseño.
+   - **[Reddit](https://www.reddit.com/r/Figma/)**: Subreddit dedicado a Figma donde se pueden hacer preguntas y compartir recursos.
+
+## 6. *Libros y Ebooks*
+   - **[Refactoring UI](https://refactoringui.com/book/)**: Aunque no es específico de Figma, este libro es excelente para aprender sobre diseño de interfaces y puede ser aplicado a Figma.
+   - **[Figma Tips & Tricks](https://www.figma.com/community/file/810914587939798893)**: Un ebook gratuito disponible en la comunidad de Figma que proporciona consejos útiles para mejorar tus habilidades en Figma.
+
+## 7. *Workshops y Webinars*
+   - **[Config Europe](https://config.figma.com/europe)**: Conferencia anual de Figma con talleres y charlas de expertos en diseño.
+   - *[Meetup](https://www.meetup.com)*: Busca meetups locales o virtuales sobre Figma para aprender de otros diseñadores y participar en talleres.
