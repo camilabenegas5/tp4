@@ -48,11 +48,7 @@ Este proyecto tiene como jetivo aprender y practicar el uso de Git y GitHub para
    - Uso de Figma como una fuente de verdad para todo el equipo de diseño.
 # Miembros del Equipo
 
-## Ezequiel Benegas
-
-*Rol:* Investigación sobre las funcionalidades principales de Figma  
-*Contribuciones:* Ezequiel Benegas ha llevado a cabo una investigación exhaustiva sobre los recursos y tutoriales disponibles para aprender Figma. Ha recopilado y organizado información valiosa de diversas fuentes, incluyendo sitios oficiales, cursos en línea, tutoriales en video, blogs, artículos, comunidades y libros. Su contribución ha sido fundamental para proporcionar una guía completa y accesible para los nuevos usuarios de Figma.
-
+**Ezequiel Benegas**
 
 
 # Recursos y Tutoriales para Aprender Figma
